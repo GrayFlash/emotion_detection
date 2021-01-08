@@ -6,6 +6,18 @@ __pycache__/
 # C extensions
 *.so
 
+#dataset
+main/
+
+#pre-trained weights
+*.dat
+
+#files
+*.jpeg
+*.jpg
+*.png
+*.txt
+
 # Distribution / packaging
 .Python
 build/
