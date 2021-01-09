@@ -17,6 +17,7 @@ main/
 *.jpg
 *.png
 *.txt
+*.pickle
 
 # Distribution / packaging
 .Python
