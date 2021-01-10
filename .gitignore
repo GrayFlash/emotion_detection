@@ -8,6 +8,7 @@ __pycache__/
 
 #dataset
 main/
+main2/
 
 #pre-trained weights
 *.dat
