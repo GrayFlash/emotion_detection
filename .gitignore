@@ -9,6 +9,8 @@ __pycache__/
 #dataset
 main/
 main2/
+front_trial/
+IMFDB_final/
 
 #pre-trained weights
 *.dat
